@@ -1,6 +1,6 @@
 {
   "name": "@themesberg/tailwind-datepicker",
-  "version": "1.0.1",
+  "version": "1.0.6",
   "description": "A Tailwind CSS powered datepicker built with vanilla JavaScript.",
   "module": "js/main.js",
   "exports": {
